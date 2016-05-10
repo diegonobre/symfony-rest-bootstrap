@@ -1,3 +1,10 @@
+Symfony REST Bootstrap
+======================
+
+Implementation based on this [gist](https://gist.github.com/diegonobre/341eb7b793fc841c0bba3f2b865b8d66)
+
+This project is based on Symfony Standard Edition. See original reame below:
+
 Symfony Standard Edition
 ========================
 
